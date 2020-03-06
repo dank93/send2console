@@ -8,5 +8,6 @@ input that is sent to Jupyter.
 Ex:
 
 `$ python3 -m send2console "print(123)"`
+
 `$ python3 -m send2console -f thing.py`
 
